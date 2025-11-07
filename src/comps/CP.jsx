@@ -29,7 +29,7 @@ export default function CP() {
   return (
     <div className='container'>
         <div className="top">
-            <h1>CryptoPort</h1>
+            <h1>CoinPort</h1>
             <input type='Search' placeholder='Search here...' onChange={takeInput}/>
         </div>
         <div className="main">
